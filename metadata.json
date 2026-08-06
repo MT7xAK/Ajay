@@ -1,0 +1,11 @@
+{
+  "name": "Remix Smart Local Problem Reporter",
+  "description": "Civic problem reporting \u0026 auto-solution suggestion system with rule-based engine, AI image analysis, admin dashboard, Java/Spring Boot code, MySQL schema, Viva Q\u0026A, and PPT project deliverables.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
